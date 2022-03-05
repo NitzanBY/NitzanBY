@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NitzanBY
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science, Machine Learning, Python, Statistics and more...
+- 👋 Hi, I’m Nitzan Ben Yosef
+- 👀 I’m interested in a Data Scientist position
+- 🌱 I’ve completed the Yandex Practicum100 Data science course
 - 📫 You can reach me @ nitzan7b@gmail.com
 
 <!---

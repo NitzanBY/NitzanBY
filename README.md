@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitzan Ben Yosef
-- 👀 I’m interested in a Data Scientist position
+- 👀 I’m interested in a Data Analyst/Junior Data Scientist position
 - 🌱 I’ve completed the Yandex Practicum100 Data science course
 - 📫 You can reach me here (https://www.linkedin.com/in/nitzan-ben-yosef/), or here (nitzan7b@gmail.com)
 
